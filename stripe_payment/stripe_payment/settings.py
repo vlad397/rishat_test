@@ -27,6 +27,7 @@ CANCEL_LINK = urljoin(BASE_URL, CANCEL_BASE_LINK)
 DEBUG = True
 
 ALLOWED_HOSTS = [
+    '158.160.3.136',
     'localhost',
     '127.0.0.1',
     '[::1]',
