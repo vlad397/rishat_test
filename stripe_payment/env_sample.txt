@@ -1,0 +1,12 @@
+SECRET_KEY='super_secret_key'
+DB_ENGINE=django.db.backends.postgresql
+DB_NAME=postgres
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=pass
+DB_HOST=db
+DB_PORT=5432
+STRIPE_PUBLISHABLE_KEY='stripe_pub_key'
+STRIPE_SECRET_KEY='stripe_secret_key'
+BASE_URL='http://127.0.0.1:80/'
+SUCCESS_BASE_LINK='success/'
+CANCEL_BASE_LINK='cancel/'
